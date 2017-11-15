@@ -1,0 +1,321 @@
+[{
+  "id": 1,
+  "name": "Lasagna",
+  "groupId": 1
+}, {
+  "id": 2,
+  "name": "Pasta with that chunky, lemony 5-min tomato sauce",
+  "groupId": 1
+}, {
+  "id": 3,
+  "name": "Fancy ramen",
+  "groupId": 1
+}, {
+  "id": 4,
+  "name": "Veggie burgers",
+  "groupId": 1
+}, {
+  "id": 5,
+  "name": "Garlic Soba Noodles",
+  "groupId": 1
+}, {
+  "id": 6,
+  "name": "Breakfast tacos",
+  "groupId": 1
+}, {
+  "id": 7,
+  "name": "Roast a whole chicken",
+  "groupId": 1
+}, {
+  "id": 8,
+  "name": "Clean pulled chicken (for tacos, etc)",
+  "groupId": 1
+}, {
+  "id": 9,
+  "name": "Omlette",
+  "groupId": 1
+}, {
+  "id": 10,
+  "name": "Fritata",
+  "groupId": 1
+}, {
+  "id": 11,
+  "name": "Jamaican black bean soup",
+  "groupId": 1
+}, {
+  "id": 12,
+  "name": "Homemade pizza",
+  "groupId": 1
+}, {
+  "id": 13,
+  "name": "Middle eastern snacks",
+  "groupId": 1
+}, {
+  "id": 14,
+  "name": "Butterfly pasta",
+  "groupId": 1
+}, {
+  "id": 15,
+  "name": "Gorgonzola pasta with greens, walnuts and lemon",
+  "groupId": 1
+}, {
+  "id": 16,
+  "name": "Chili",
+  "groupId": 1
+}, {
+  "id": 17,
+  "name": "Avocado asparagus tartine",
+  "groupId": 1
+}, {
+  "id": 18,
+  "name": "one pot farro and tomato dish (smitten kitchen)",
+  "groupId": 1
+}, {
+  "id": 19,
+  "name": "Ribolita",
+  "groupId": 1
+}, {
+  "id": 20,
+  "name": "Lemon mushroom cream freehand pasta",
+  "groupId": 1
+}, {
+  "id": 21,
+  "name": "zaterains black bean and rice mix",
+  "groupId": 1
+}, {
+  "id": 22,
+  "name": "Chicken w/ gen tsao sauce",
+  "groupId": 1
+}, {
+  "id": 23,
+  "name": "Salmon with yogurt dill sauce",
+  "groupId": 1
+}, {
+  "id": 24,
+  "name": "Quinoa & blackbean chipotle salad",
+  "groupId": 1
+}, {
+  "id": 25,
+  "name": "Tuna steaks",
+  "groupId": 1
+}, {
+  "id": 26,
+  "name": "Quinoa with goat cheese, grilled veggies and awesome sauce",
+  "groupId": 1
+}, {
+  "id": 27,
+  "name": "Fajitas (smitten kitchen)",
+  "groupId": 1
+}, {
+  "id": 28,
+  "name": "Cold soba",
+  "groupId": 1
+}, {
+  "id": 29,
+  "name": "greek salad (w or w/out chicken)",
+  "groupId": 1
+}, {
+  "id": 30,
+  "name": "simple summer tacos: scrambled egg wiht arugula dressed with lime juice",
+  "groupId": 1
+}, {
+  "id": 31,
+  "name": "salmon and kale over rice",
+  "groupId": 1
+}, {
+  "id": 32,
+  "name": "fish stick tacos",
+  "groupId": 1
+}, {
+  "id": 33,
+  "name": "curried cauliflower with yogurt sauce",
+  "groupId": 1
+}, {
+  "id": 34,
+  "name": "lentil soup",
+  "groupId": 1
+}, {
+  "id": 35,
+  "name": "veggie and egg cups",
+  "groupId": 2
+}, {
+  "id": 36,
+  "name": "cheerios w/ milk",
+  "groupId": 2
+}, {
+  "id": 37,
+  "name": "green smoothie muffins",
+  "groupId": 2
+}, {
+  "id": 38,
+  "name": "omelette",
+  "groupId": 2
+}, {
+  "id": 39,
+  "name": "pancakes",
+  "groupId": 2
+}, {
+  "id": 40,
+  "name": "toast with peanut butter and jam",
+  "groupId": 2
+}, {
+  "id": 41,
+  "name": "waffle with jam",
+  "groupId": 2
+}, {
+  "id": 42,
+  "name": "yogurt w/ granola",
+  "groupId": 2
+}, {
+  "id": 43,
+  "name": "avocado toast",
+  "groupId": 3
+}, {
+  "id": 44,
+  "name": "cabot creamery brand mac & cheese",
+  "groupId": 3
+}, {
+  "id": 45,
+  "name": "hummus",
+  "groupId": 3
+}, {
+  "id": 46,
+  "name": "jamacin black bean soup",
+  "groupId": 3
+}, {
+  "id": 47,
+  "name": "lentil soup",
+  "groupId": 3
+}, {
+  "id": 48,
+  "name": "mashjed sweet potatoes",
+  "groupId": 3
+}, {
+  "id": 49,
+  "name": "omelette",
+  "groupId": 3
+}, {
+  "id": 50,
+  "name": "pasta with butter and parmasean",
+  "groupId": 3
+}, {
+  "id": 51,
+  "name": "quesedilla",
+  "groupId": 3
+}, {
+  "id": 52,
+  "name": "raspberries",
+  "groupId": 3
+}, {
+  "id": 53,
+  "name": "seasoned black or pinto beans",
+  "groupId": 3
+}, {
+  "id": 54,
+  "name": "shredded or cubed chicken",
+  "groupId": 3
+}, {
+  "id": 55,
+  "name": "steamed broccoli",
+  "groupId": 3
+}, {
+  "id": 56,
+  "name": "steamed carrots",
+  "groupId": 3
+}, {
+  "id": 57,
+  "name": "strawberries",
+  "groupId": 3
+}, {
+  "id": 58,
+  "name": "sweet potato fries",
+  "groupId": 3
+}, {
+  "id": 59,
+  "name": "toast with peanut butter and jam",
+  "groupId": 3
+}, {
+  "id": 60,
+  "name": "turkey meatballs",
+  "groupId": 3
+}, {
+  "id": 61,
+  "name": "veggie and egg cups",
+  "groupId": 3
+}, {
+  "id": 62,
+  "name": "veggie burger",
+  "groupId": 3
+}, {
+  "id": 63,
+  "name": "veggie chicken nuggets",
+  "groupId": 3
+}, {
+  "id": 64,
+  "name": "spagetti with tomato sauce",
+  "groupId": 3
+}, {
+  "id": 65,
+  "name": "fish sticks",
+  "groupId": 3
+}, {
+  "id": 66,
+  "name": "apple sauce",
+  "groupId": 4
+}, {
+  "id": 67,
+  "name": "apple slices",
+  "groupId": 4
+}, {
+  "id": 68,
+  "name": "blue berries (sliced in half)",
+  "groupId": 4
+}, {
+  "id": 69,
+  "name": "cheerios",
+  "groupId": 4
+}, {
+  "id": 70,
+  "name": "cheerios w/ milk",
+  "groupId": 4
+}, {
+  "id": 71,
+  "name": "crackers. all the crackers.",
+  "groupId": 4
+}, {
+  "id": 72,
+  "name": "graham crackers",
+  "groupId": 4
+}, {
+  "id": 73,
+  "name": "grapes",
+  "groupId": 4
+}, {
+  "id": 74,
+  "name": "green smoothie muffins",
+  "groupId": 4
+}, {
+  "id": 75,
+  "name": "nectarines or peaches",
+  "groupId": 4
+}, {
+  "id": 76,
+  "name": "pears",
+  "groupId": 4
+}, {
+  "id": 77,
+  "name": "rasperries",
+  "groupId": 4
+}, {
+  "id": 78,
+  "name": "string cheese, chopped up",
+  "groupId": 4
+}, {
+  "id": 79,
+  "name": "wedges of cantalope",
+  "groupId": 4
+}, {
+  "id": 80,
+  "name": "orange segments",
+  "groupId": 4
+}]
